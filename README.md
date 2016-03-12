@@ -1,5 +1,5 @@
 # scrape_webpage
 
-Yahoo Finance Page scrapper.
+Yahoo Finance Scrapper.
 
 Scrapes yahoo finance webpage and returns data in ruby hash format.
